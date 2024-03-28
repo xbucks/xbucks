@@ -8,7 +8,7 @@ This lets me build web apps that are not only stunning to look at but also run l
 <br>
 New challenges keep me energized, and I'm always ready to tackle them head-on.
 
-## 💫 My🌟BEST🌟 SKILLS
+<h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
 <p align="center">
 <table align="center">
   <tr>
