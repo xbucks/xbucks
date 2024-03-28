@@ -185,7 +185,7 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 <br>
 </div>
 
-### ⚡ Github Stats:
+<h1 align="center">⚡ Github Stats</h1>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xbucks&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xbucks&theme=algolia) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -195,6 +195,8 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.%20Nothing%20but%20the%20art%20of%20self-ignorance.&author=He%20who%20embraced%20his%20own%20ignorance" /> </p>
 
 <img src="https://komarev.com/ghpvc/?username=xbucks" />
+
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=xbucks" /></h1>
 
 
 
