@@ -50,7 +50,7 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>RestAPI
+      <br>RESTful API
     </td>
   </tr>
   <tr>
