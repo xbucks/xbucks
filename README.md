@@ -1,4 +1,5 @@
-## I'm Quan Doan from Vietnam. Thank you for visiting my profile.
+[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
+<h1 align="center">Hi 👋, I'm Quan Doan</h1>
 
 I'm a software engineer with a fire in my belly and a knack for getting things done. I lead the charge in crafting amazing user experiences from the ground up. 
 <br>
